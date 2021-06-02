@@ -1,4 +1,14 @@
-[toc]
+- [JavaScript的诞生](#javascript的诞生)
+  - [JavaScript名字的由来](#javascript名字的由来)
+  - [JavaScript的缺陷](#javascript的缺陷)
+- [JavaScript的历史](#javascript的历史)
+  - [浏览器大战](#浏览器大战)
+  - [黑暗时代——IE 6 如日中天](#黑暗时代ie-6-如日中天)
+  - [Chrome 横空出世](#chrome-横空出世)
+  - [移动互联网的兴起](#移动互联网的兴起)
+  - [JavaScript的兴起--Gmail的诞生](#javascript的兴起--gmail的诞生)
+  - [JS的爆发--V8引擎](#js的爆发--v8引擎)
+
 
 
 # JavaScript的诞生
